@@ -4,13 +4,13 @@ I build Record in my private monorepo, next to the rest of my `*.me.at` apps.
 This file mirrors that work. Every sync regenerates it from the monorepo's
 history for this app, so it changes when the app does.
 
-Latest change: **2026-10-19**
+Latest change: **2026-10-20**
 
 ## By week
 
 | Week of | Commits | Files touched |
 |---|---:|---:|
-| 2026-10-19 | 5 | 10 |
+| 2026-10-19 | 7 | 11 |
 | 2026-10-12 | 5 | 9 |
 | 2026-10-05 | 3 | 9 |
 | 2026-09-28 | 13 | 174 |
@@ -25,6 +25,7 @@ Latest change: **2026-10-19**
 
 ## Recent changes
 
+- 2026-10-20 · fix(docs): update AGENTS.md headers for clarity
 - 2026-07-27 · chore(record): manifest description, catalog regen, leak-guard + export slice
 - 2026-07-27 · docs(record): H1 cost model, H2 takedown path, H3 privacy posture, per-verb e2e
 - 2026-07-27 · test(record): 186 unit fixtures across the six merge-gate properties
