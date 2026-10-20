@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 0 880 302" role="img" aria-label="record.me.at at a glance: Records in your tab, Uploads that resume, Links that fail closed, See who watched">
+<rect x="0.5" y="0.5" width="879" height="301" rx="12" fill="#0a0a0a" stroke="#262626"/>
+<rect x="24" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="44" dy="0">Records in your</tspan><tspan x="44" dy="22">tab</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="44" dy="0">Capture with the</tspan><tspan x="44" dy="21">browser's own</tspan><tspan x="44" dy="21">screen-sharing and</tspan><tspan x="44" dy="21">MediaRecorder APIs.</tspan><tspan x="44" dy="21">There is no desktop</tspan><tspan x="44" dy="21">app to install.</tspan></text>
+<rect x="236" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="256" dy="0">Uploads that</tspan><tspan x="256" dy="22">resume</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="256" dy="0">Chunked uploads</tspan><tspan x="256" dy="21">resume from the first</tspan><tspan x="256" dy="21">missing part. The</tspan><tspan x="256" dy="21">local copy is kept</tspan><tspan x="256" dy="21">until the server</tspan><tspan x="256" dy="21">confirms it all.</tspan></text>
+<rect x="448" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="468" dy="0">Links that fail</tspan><tspan x="468" dy="22">closed</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="468" dy="0">Every view passes a</tspan><tspan x="468" dy="21">set of link checks,</tspan><tspan x="468" dy="21">readiness included,</tspan><tspan x="468" dy="21">then plays through</tspan><tspan x="468" dy="21">short-lived signed</tspan><tspan x="468" dy="21">URLs.</tspan></text>
+<rect x="660" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="680" dy="0">See who watched</tspan></text>
+<text x="680" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="680" dy="0">Owners see who</tspan><tspan x="680" dy="21">watched each</tspan><tspan x="680" dy="21">recording, with view</tspan><tspan x="680" dy="21">time capped by the</tspan><tspan x="680" dy="21">recording's own</tspan><tspan x="680" dy="21">length.</tspan></text>
+</svg>
